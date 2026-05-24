@@ -1,0 +1,33 @@
+================New Order================
+Username : x
+
+ (1) 2 x Water = 20$
+ (2) 3 x lamon juice = 90$
+Total : 110$
+
+================New Order================
+Username : boss
+
+ (1) 2 x Water = 20$
+ (2) 3 x lamon juice = 90$
+Total : 110$
+
+================New Order================
+Username : boss
+
+ (1) 2 x Pizza = 150$
+ (2) 3 x chicken = 150$
+Total : 300$
+
+================New Order================
+Username : m
+
+ (1) 2 x Burger = 120$
+Total : 120$
+
+================New Order================
+Username : Boss
+
+ (1) 4 x donut = 160$
+Total : 160$
+

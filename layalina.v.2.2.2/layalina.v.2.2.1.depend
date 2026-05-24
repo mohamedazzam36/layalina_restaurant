@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1747142248 source:c:\users\moham\documents\layalina.v.2.2.1\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1764598618 source:c:\users\eng-m\onedrive\documents\layalina.v.2.2.2\layalina.v.2.2.2\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
